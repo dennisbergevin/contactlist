@@ -1,5 +1,5 @@
 # contactlist
 
-A simple contact list functionality.
+A simple contact list functionality. 
 
-Demo:
+Demo: https://dennisbergevin.github.io/contactlist/
